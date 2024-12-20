@@ -1,0 +1,6 @@
+*.pkl
+creds.py
+/venv
+*.html
+*.pyc
+__pycache__/
